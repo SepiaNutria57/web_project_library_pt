@@ -72,7 +72,8 @@ ul {
 }
 
 .header__image {
-  max-width: 635px;
+  max-width: 636px;
+  object-fit: cover;
 }
 
 .header__footer {
