@@ -247,10 +247,8 @@ ul {
 
 .events__cover {
   position: relative;
-
   width: 780px;
   min-width: 780px;
-
   flex-shrink: 0;
 }
 
@@ -269,7 +267,7 @@ ul {
 }
 
 .person_name_feynman {
-  top: 20px;
+  top: -30px;
   left: 319px;
 }
 
